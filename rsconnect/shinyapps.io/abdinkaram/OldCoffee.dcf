@@ -1,0 +1,13 @@
+name: OldCoffee
+title: OldCoffee
+username:
+account: abdinkaram
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 272365
+bundleId: 1207364
+url: https://abdinkaram.shinyapps.io/OldCoffee/
+when: 1517787694.70522
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|coffee Mashine with shiny.R
